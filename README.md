@@ -1,2 +1,3 @@
 # Spatial-Regression-Approach-Pendekatan-Regresi-Spatial
-College Project.
+College Project. 
+Analisis data spasial merupakan analisis yang berhubungan dengan pengaruh lokasi. Hal ini berdasarkan hukum geografis yang dikemukakan Tobler (Tobler’s first law of geography) dalam Schabenbeger dan Gotway (2005) menyatakan “Everything is related to everything else, but near thing are more related than distant things”. Segala sesuatu saling berhubungan satu dengan yang lainnya tetapi sesuatu yang dekat mempunyai pengaruh yang lebih besar. Hukum Tobler digunakan sebagai pilar kajian analisis data spasial. Pada data spasial, seringkali pengamatan disuatu lokasi (space) bergantung pada pengamatan di lokasi lain yang berdekatan (neighboring).
